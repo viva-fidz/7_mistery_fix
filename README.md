@@ -4,7 +4,7 @@ The numerical calculation of discriminant
 
 # How to Use
 
-input: 3 numerical coefficients
+input: 3 numerical coefficients <br>
 output: 2 roots of discriminant, if it exist
 
 # How to Launch Tests
