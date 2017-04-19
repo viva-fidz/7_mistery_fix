@@ -1,10 +1,11 @@
 # Quadratic Equations Solver
 
-[TODO. There will be project description]
+The numerical calculation of discriminant
 
 # How to Use
 
-[TODO]
+input: 3 numerical coefficients
+output: 2 roots of discriminant, if it exist
 
 # How to Launch Tests
 
@@ -14,4 +15,5 @@ python tests.py
 
 # Project Goals
 
-The code is written for educational purposes. Training course for web-developers - [DEVMAN.org](https://devman.org)
+The code is written for educational purposes.
+Training course for web-developers - [DEVMAN.org](https://devman.org)
