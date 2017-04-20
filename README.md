@@ -1,11 +1,13 @@
 # Quadratic Equations Solver
 
-The numerical calculation of discriminant
+The numerical solve of quadratic equation 'ax² + bx + c = 0' by deducding
+roots of the discriminant 'D = b² - 4ac'
+These roots are possible values of 'x' of  equation
 
 # How to Use
 
-input: 3 numerical coefficients
-output: 2 roots of discriminant, if it exist
+input: numerical coefficients of quadratic equation (a, b, c)
+output: possible x of equation
 
 # How to Launch Tests
 
