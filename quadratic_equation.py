@@ -12,4 +12,3 @@ def get_roots_of_discriminant(a, b, c):
         return root1, None
     else:
         return root1, root2
-
