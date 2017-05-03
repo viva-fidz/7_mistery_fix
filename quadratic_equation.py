@@ -1,7 +1,7 @@
 from math import sqrt
 
 
-def get_roots_of_discriminant(a, b, c):
+def get_roots(a, b, c):
     """ Return x of equation 'ax² + bx + c = 0' """
     discriminant = b ** 2 - 4 * a * c
     if discriminant < 0:
